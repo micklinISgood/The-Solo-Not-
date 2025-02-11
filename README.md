@@ -7,5 +7,6 @@ Feast your eyes on the Solo (Not!), the single-person commuter car of the future
 *   **Safety… Kinda:** We’ve packed it with sensors!
 *   **Long (ish) Range:** Go the distance! Or, you know, to the next charging station.
 *   **Multi-Use (Debatable):** It's a car! It's a personal isolation pod! It's… well, mostly just a car.
+  
 **The Solo (Not!) - Because mass transit is for *other* people.**
 **(Not available in most areas. May spontaneously combust. Driver assumes all responsibility.)**
