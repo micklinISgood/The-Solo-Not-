@@ -9,5 +9,4 @@ Feast your eyes on the Solo (Not!), the single-person commuter car of the future
 *   **Multi-Use (Debatable):** It's a car! It's a personal isolation pod! It's… well, mostly just a car.
   
 **The Solo (Not!) - Because mass transit is for *other* people.**
-**(Not available in most areas. May spontaneously combust. Driver assumes all responsibility.)**
 ![img](https://github.com/micklinISgood/The-Solo-Not-/blob/main/solo.jpg)
